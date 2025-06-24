@@ -1,0 +1,22 @@
+| #  | Question                                              | Topic                      |
+| -- | ----------------------------------------------------- | -------------------------- |
+| 1  | Find the **largest element** in an array              | Traversal                  |
+| 2  | Find the **second largest element** without sorting   | Comparison Logic           |
+| 3  | Check if the array is **sorted** in ascending order   | Traversal                  |
+| 4  | **Reverse** an array                                  | Two-pointer                |
+| 5  | Find the **sum of all elements** in an array          | Accumulation               |
+| 6  | Find the **average** of elements                      | Sum + Division             |
+| 7  | **Count even and odd numbers** in array               | Modulo                     |
+| 8  | **Left rotate** the array by 1 place                  | Rotation                   |
+| 9  | **Right rotate** the array by 1 place                 | Rotation                   |
+| 10 | **Search an element** in array (Linear Search)        | Searching                  |
+| 11 | Count the **frequency** of each element               | Hashing                    |
+| 12 | Find the **maximum and minimum** element              | Min/Max logic              |
+| 13 | **Copy one array to another**                         | Traversal                  |
+| 14 | **Merge two arrays** into one                         | Merging                    |
+| 15 | **Remove duplicates** from array                      | Set/Two Loops              |
+| 16 | Find the **missing number** in a range \[1...n]       | Math Trick                 |
+| 17 | **Sort** the array (without using built-in methods)   | Bubble/Selection/Insertion |
+| 18 | Count how many times a **number appears**             | Frequency count            |
+| 19 | Find the **first repeating element**                  | Hashing                    |
+| 20 | Move all **zeroes to the end** without changing order | Two-pointer                |
